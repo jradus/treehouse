@@ -2,4 +2,4 @@
 
 This repo is for all of my course files completed through teamtreehouse.com
 
-Checkout my Treehouse profile https://teamtreehouse.com/jakeradus
+Also checkout my Treehouse profile [here](https://teamtreehouse.com/jakeradus)
